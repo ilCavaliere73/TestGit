@@ -1,1 +1,2 @@
 Informazioni di ultima modifica basata su file nella cartella "C:\Lorenzo\Studio\Python\Progetti" 
+questa inoltre è anche una prova di modifica sul server Github
